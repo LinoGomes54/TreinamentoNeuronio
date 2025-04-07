@@ -1,3 +1,1 @@
-Projeto: Perceptron com Função de Ativação Degrau Bipolar
-
-Este projeto implementa um neurônio do tipo perceptron para classificar dados com saída esperada, utilizando a função de ativação degrau bipolar.
+Prática para desenvolver um neurônio básico, baseado nos neurônios de McCulloch/Pitts e Perceptron. O neurônio criado é um Perceptron, porém, com uso da função de ativação Bipolar (mudamos em aula, da Degrau, para a Bipolar). Os Datasets estão no repositório do GIT Hub. Usem o arquivo data.txt ou data.csv dividindo-o em conjunto de treinamento e conjunto de teste. Ou seja, usem 2/3 dos dados para a fase de treinamento (quantas épocas - repetições - forem necessárias para treinar) e 1/3 para a fase de teste. Quando vcs poderão medir a acurácia do sistema (número de acertos dividido pelo número de amostras do teste). No dataset, os últimos valores representam as classes (rótulos).
